@@ -19,7 +19,12 @@ public:
 
 int main()
 {
-    int size = 6;
+    int size;
+
+    std::cout << "Insert size: ";
+    std::cin >> size;
+    std::cout << std::endl;
+
     std::vector<Disc> towers[3];
 
 #pragma region create game

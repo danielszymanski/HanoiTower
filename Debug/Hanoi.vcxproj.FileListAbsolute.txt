@@ -1,2 +1,0 @@
-S:\repos\Hanoi\Debug\Hanoi.exe
-S:\repos\Hanoi\Debug\Hanoi.pdb
