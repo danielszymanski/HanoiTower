@@ -1,0 +1,6 @@
+﻿  Hanoi.cpp
+S:\repos\Hanoi\Hanoi.cpp(29,40): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+S:\repos\Hanoi\Hanoi.cpp(39,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+S:\repos\Hanoi\Hanoi.cpp(74,32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+S:\repos\Hanoi\Hanoi.cpp(143,43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Hanoi.vcxproj -> S:\repos\Hanoi\Debug\Hanoi.exe
